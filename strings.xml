@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping Zone!</string>
+    <string name="MyApplication2">Welcome</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="second_page">Welcome shop owners</string>
+
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="third_page">Welcome shop keepers</string>
+</resources>
